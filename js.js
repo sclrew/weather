@@ -2,7 +2,7 @@
 
 
 function getUrl(town){
-    let url1 = 'http://api.openweathermap.org/data/2.5/weather?q='
+    let url1 = 'https://api.openweathermap.org/data/2.5/weather?q='
     
     let url2 = '&APPID=d849f74ae0d8e55dd10666a12adfd084'
     
